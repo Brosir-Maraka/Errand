@@ -1,5 +1,5 @@
 /*--
-Author: W3layouts
+Author: Errand
 Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
@@ -41,7 +41,7 @@ body a:hover{
 }
 .logo h1 a {
     font-size: 1.4em;
-    color: #fff;
+    color:navy;
     letter-spacing: 3px;
     text-decoration: none;
 	font-family: 'Oleo Script', cursive;
@@ -82,7 +82,7 @@ body a:hover{
 }
 .rslides_tabs .rslides_here a {
   background: rgba(255,255,255,.1);
-  color: #fff;
+  color:whitesmoke;
   font-weight: bold;
 }
 .events {
