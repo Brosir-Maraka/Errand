@@ -411,7 +411,7 @@ li.dropdown.act a.w3_icons_act {
     -webkit-appearance: none;
     margin-bottom: 2em;
     background: #353434;
-	border-bottom: 2px solid #eb422a;
+	border-bottom: 2px solid #0caeb4;
 }
 .agileits-login textarea {
 	resize:none;
@@ -445,14 +445,14 @@ li.dropdown.act a.w3_icons_act {
 /*-- checkbox --*/
 .agileits-login label {
     font-size: 1em;
-    color: #000;
+    color: rgb(6, 31, 173);
 	letter-spacing: 0.5px;
     font-weight: 400;
     cursor: pointer;
     position: relative;
 }
 input.checkbox {
-    background: #eb422a;
+    background: #0817ee;
     cursor: pointer;
     width: 1.2em;
     height: 1.2em;
@@ -506,11 +506,11 @@ input.checkbox:checked:after {
 }
 @keyframes rippling {
 	50% {
-		border-left-color: #fff;
+		border-left-color: rgb(6, 26, 211);
 	}
 	100% {
-		border-bottom-color: #fff;
-		border-left-color: #fff;
+		border-bottom-color: rgb(6, 21, 226);
+		border-left-color: rgb(9, 44, 243);
 	}
 } 
 /*-- //checkbox --*/
