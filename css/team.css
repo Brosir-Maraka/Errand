@@ -64,7 +64,7 @@
 	-ms-transform: rotateY(-180deg);
 	-o-transform: rotateY(-180deg);
 	-moz-transform: rotateY(-180deg);
-    background: #F44336;
+    background: rgb(8, 2, 44);
     padding: 8em 2em 0;
     text-align: center;
 }
